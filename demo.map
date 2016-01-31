@@ -1,0 +1,42 @@
+#
+# Map Demo
+#
+
+MAP
+  NAME ITASCA
+  STATUS ON
+  SIZE 300 300
+  EXTENT 128.257 34.975 129.262 35.447
+  UNITS METERS
+  SHAPEPATH "data"
+  IMAGECOLOR 255 255 255
+  
+  IMAGETYPE PNG
+
+  WEB
+	TEMPLATE "map.html"
+	IMAGEPATH "D:\ms4w\Apache\htdocs\niar\tmp"
+	IMAGEURL "D:\ms4w\Apache\htdocs\niar\tmp"
+  END  
+  
+  LAYER
+    NAME DEMOLAYER
+    TYPE POLYGON
+    STATUS DEFAULT
+    DATA busan_south-korea_osm_polygon
+
+    CLASS
+       STYLE
+         OUTLINECOLOR 128 128 128
+         COLOR 225 225 185
+       END
+    END
+   
+    METADATA
+      WMS_TITLE "DEMO TAKEN FROM ITASCA"
+      WMS_ABSTRACT "DEMO TAKEN FROM ITASCA"
+      WMS_SRS "EPSG:26915"
+    END
+  END
+   
+END # Map File
