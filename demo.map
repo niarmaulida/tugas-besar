@@ -15,6 +15,7 @@ MAP
 	TEMPLATE "map.html"
 	IMAGEPATH "D:\ms4w\Apache\htdocs\niar\tmp"
 	IMAGEURL "D:\ms4w\Apache\htdocs\niar\tmp"
+  END
   
   LAYER
     NAME DEMOLAYER
