@@ -1,7 +1,6 @@
 # tugas-besar
 
-<center>
-<H1>SISTEM INFORMASI GEOGRAFIS</H1> 
+<center><H1>SISTEM INFORMASI GEOGRAFIS</H1> </center>
 </br>
 </br>
 oleh </br>
@@ -11,4 +10,3 @@ oleh </br>
 18. Muhammad Tantowi Luthfi</br>
 19. Novaldi Rifqi W</br>
 
-</center>
