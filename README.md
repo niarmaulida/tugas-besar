@@ -11,3 +11,6 @@ oleh </br>
 20. Muhammad Rezky Putra</br>
 21. Muhammad Tantowi Luthfi</br>
 
+Diploma 4
+Program Studi Teknik Informatika
+POLITEKNIK POS INDONESIA
