@@ -16,8 +16,8 @@ MAP
 
   WEB
 	TEMPLATE "map.html"
-	IMAGEPATH "D:\ms4w\Apache\htdocs\niar\tmp"
-	IMAGEURL "D:\ms4w\Apache\htdocs\niar\tmp"
+	IMAGEPATH "D:\ms4w\Apache\htdocs\tugas-besar-master\tmp"
+	IMAGEURL "D:\ms4w\Apache\htdocs\tugas-besar-master\tmp"
   END
   
   LAYER
