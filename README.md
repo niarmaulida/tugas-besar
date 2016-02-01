@@ -8,7 +8,7 @@ oleh </br>
 17. Maksudi Indra Rukmana </br>
 18. Maulida Rahmaniar</br>
 19. Moch Yusuf Asyhari</br>
-20. Muhammad Rezky Putra</br>
+20. Muh Rezky Putra M</br>
 21. Muhammad Tantowi Luthfi</br>
 
 Diploma 4
