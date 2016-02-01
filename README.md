@@ -1,6 +1,6 @@
 # tugas-besar
 
-<H1>SISTEM INFORMASI GEOGRAFIS</H1>
+<H1>SISTEM INFORMASI GEOGRAFIS (SIG)</H1>
 </br>
 </br>
 oleh </br>
